@@ -1,0 +1,26 @@
+{
+  "name": "ui-todo",
+  "version": "1.0.0",
+  "description": "npm for todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruslan5787/Todo-list.git"
+  },
+  "author": "ruslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruslan5787/Todo-list/issues"
+  },
+  "homepage": "https://github.com/Ruslan5787/Todo-list#readme",
+  "devDependencies": {
+    "eslint": "^8.8.0"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
