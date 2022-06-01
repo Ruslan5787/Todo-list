@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #ccc;
+  background-color: 		#B0C4DE;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -29,11 +29,11 @@ input {
     min-height: 688px;
     background-color: #fff;
     padding: 25px 8px;
-    border-radius: 4px;
+    border-radius: 10px;
     position: relative;
     -webkit-box-shadow: 4px 4px 17px -4px rgba(34, 60, 80, 0.2);
     -moz-box-shadow: 4px 4px 17px -4px rgba(34, 60, 80, 0.2);
-    box-shadow: 4px 4px 17px -4px rgba(34, 60, 80, 0.2);
+    box-shadow: 22px 22px 34px 13px  rgba(34, 60, 80, 0.2);
   }
   &__high {
     margin-bottom: 12px;
